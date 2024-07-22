@@ -1,4 +1,4 @@
-import 'package:std_uritemplate/std_uritemplate.dart';
+import 'package:std_uritemplate/std_uritemplate_release_test.dart';
 
 void main() {
   final substitutes = <String, Object?>{
