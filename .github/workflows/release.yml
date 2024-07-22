@@ -30,7 +30,7 @@ jobs:
       - name: Generate Changelog
         uses: rhysd/changelog-from-release/action@v3
         with:
-          args: -d false
+          args: -d=false
           file: dart/CHANGELOG.md
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Release dry run
