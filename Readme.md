@@ -221,7 +221,7 @@ flutter pub add std_uritemplate
 and use it:
 
 ```dart
-import 'package:std_uritemplate/std_uritemplate.dart';
+import 'package:std_uritemplate/std_uritemplate_release_test.dart';
 
 ...
 
