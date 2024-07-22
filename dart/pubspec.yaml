@@ -1,4 +1,4 @@
-name: std_uritemplate
+name: std_uritemplate_release_test
 version: 0.0.1
 description: A Dart implementation of URI Templates defined in (RFC 6570).
 issue_tracker: https://github.com/std-uritemplate/std-uritemplate/issues
